@@ -1,8 +1,8 @@
 namespace Interfaz_del_usuario
 {
-    public partial class Cobros_cuota : Form
+    public partial class Cobrar_cuota : Form
     {
-        public Cobros_cuota()
+        public Cobrar_cuota()
         {
             InitializeComponent();
         }

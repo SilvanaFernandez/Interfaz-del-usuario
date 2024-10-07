@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Interfaz_del_usuario
 {
-    public partial class Inicio : Form
+    public partial class Principal : Form
     {
-        public Inicio()
+        public Principal()
         {
             InitializeComponent();
         }

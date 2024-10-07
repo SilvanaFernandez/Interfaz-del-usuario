@@ -1,6 +1,6 @@
 ﻿namespace Interfaz_del_usuario
 {
-    partial class Cobros_cuota
+    partial class Cobrar_cuota
     {
         /// <summary>
         ///  Required designer variable.

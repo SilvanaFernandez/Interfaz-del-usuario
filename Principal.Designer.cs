@@ -1,6 +1,6 @@
 ﻿namespace Interfaz_del_usuario
 {
-    partial class Inicio
+    partial class Principal
     {
         /// <summary>
         /// Required designer variable.
@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Inicio));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Principal));
             label1 = new Label();
             button1 = new Button();
             button2 = new Button();

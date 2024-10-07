@@ -11,7 +11,7 @@ namespace Interfaz_del_usuario
             // To customize application configuration such as set high DPI settings or default font,
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
-            Application.Run(new Cobros_cuota());
+            Application.Run(new Login());
         }
     }
 }
